@@ -1,0 +1,19 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:57554/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "AspNetCoreTodo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000/"
+    }
+  }
+}
